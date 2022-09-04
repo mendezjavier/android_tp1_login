@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Javier TP1 Login</string>
+    <string name="button_text">Ingresar</string>
+    <string name="mail_text">Ingrese su email</string>
+    <string name="password_text">Ingrese su contraseña</string>
+    <string name="success_message">Credenciales válidas</string>
+    <string name="mail_error_message">Correo electrónico inválido, por favor verificar.</string>
+    <string name="password_error_message">Contraseña inválida, por favor verificar.</string>
+</resources>
